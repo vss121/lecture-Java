@@ -1,16 +1,16 @@
 
-public class Hello {	// í´ë˜ìŠ¤
+public class Hello {	// Å¬·¡½º
 
-	public static int sum(int n, int m) {	// ë©”ì†Œë“œ
+	public static int sum(int n, int m) {	// ¸Ş¼­µå
 		return n+m;
 	}
 	
-	public static void main(String[] args) {	// ë©”ì†Œë“œ
+	public static void main(String[] args) {	// ¸Ş¼­µå
 		int i = 20;
 		int s;
 		char a;
 		
-		s = sum(i,10);	// ë©”ì†Œë“œ í˜¸ì¶œ
+		s = sum(i,10);	
 		a = '?';
 		System.out.println(a);
 		System.out.println("Hello");
