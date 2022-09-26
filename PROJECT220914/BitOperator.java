@@ -11,6 +11,9 @@ public class BitOperator {
 		System.out.printf("%04x\n", (short)(a | b)); // 비트 OR 
 		System.out.printf("%04x\n", (short)(a ^ b)); // 비트 XOR 
 		System.out.printf("%04x\n", (short)(~a)); // 비트 NOT
+		
+		
+		//
 	}
 
 }
